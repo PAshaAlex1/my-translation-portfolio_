@@ -21,8 +21,8 @@
 | Раздел | Описание | Ссылка |
 |--------|----------|--------|
 | Introduction | Перевод главы о введение в Rust | [Introduction.md](./Rust/Introduction.md) |
-| Borrowing | Перевод главы о заимствовании | [borrowing.md](./rust/borrowing.md) |
-| Error Handling | Перевод главы об обработке ошибок | [error-handling.md](./rust/error-handling.md) |
+| What is Ownership | Перевод главы о владении | [What is Ownership](./Rust/what-is-ownership.md)  |
+
 
 ### Python
 
